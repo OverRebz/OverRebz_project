@@ -1,0 +1,144 @@
+{
+  "result": {
+    "resume_parse_time": "2023-05-10 23:55:04",
+    "cont_job_exp": "MS Office\nPhotoshop\nIllustrator\n英语\n日语\n粤语",
+    "training_objs": [],
+    "resume_type": "0",
+    "hometown_address": "上海",
+    "job_exp_objs": [],
+    "social_exp_objs": [],
+    "major": "设计",
+    "proj_exp_objs": [],
+    "surname": "詹",
+    "hukou_address_norm": "中国-上海-上海市",
+    "resume_name": "cv20230510_235504222_868.doc",
+    "lang_objs": [],
+    "email": "xianxian@taobao.com",
+    "hukou_address": "上海",
+    "raw_text": "9年财务会计方面工作经验,5年会计主管经验。\n拥有助理会计师职称,熟悉各种财务制度,及各种税收政策法规。\n熟练使用财税办公软件,熟练使用ms office办公软件。\n思维灵活,大方稳重,责任心强,具有较强的团队精神。\n13912345678\nxianxian@taobao.com\n姓名:詹允坚\n年龄:28岁\n籍贯:上海\n民族:汉族\n学历:中专\n专业:设计\n北京金隅科技学校平面设计\n2011 \u2013 2014\n中专\nAdobe中国认证设计师\nAdobe认证产品专家\n平面设计师资格证书\n平面设计师资格证书\n英语四六级证书\n设计  师\n詹允坚\n负责企业画册设计、产品包装设计、杂志广告跨页设计、户外广告设计等\n对公司的网站后台周期性的修改和维护\n对公司所有的宣传广告设计方面全程负责一直到完成阶段\n2014.7 \u2013 2018.7\n勤裕顾问有限公司\n会计师\n教育背景\n基本信息\n总结\n联系\n负责企业画册设计、产品包装设计、杂志广告跨页设计、户外广告设计等\n对公司的网站后台周期性的修改和维护\n对公司所有的宣传广告设计方面全程负责一直到完成阶段\n秋诚顾问有限公司\n会计主管\n2018.7 \u2013 至今\n工作经历\nMS Office\nPhotoshop\nIllustrator\n英语\n日语\n粤语",
+    "cert_objs": [],
+    "languages": "日语,粤语,英语",
+    "race": "汉族",
+    "cont_basic_info": "9年财务会计方面工作经验,5年会计主管经验。\n拥有助理会计师职称,熟悉各种财务制度,及各种税收政策法规。\n熟练使用财税办公软件,熟练使用ms office办公软件。\n思维灵活,大方稳重,责任心强,具有较强的团队精神。\n13912345678\nxianxian@taobao.com\n姓名:詹允坚\n年龄:28岁\n籍贯:上海\n民族:汉族\n学历:中专\n专业:设计\n总结\n联系\n负责企业画册设计、产品包装设计、杂志广告跨页设计、户外广告设计等\n对公司的网站后台周期性的修改和维护\n对公司所有的宣传广告设计方面全程负责一直到完成阶段\n秋诚顾问有限公司\n会计主管\n2018.7 \u2013 至今",
+    "degree": "中专",
+    "education_objs": [
+      {
+        "end_date": "2014",
+        "edu_degree": "中专",
+        "edu_content": "Adobe中国认证设计师\nAdobe认证产品专家\n平面设计师资格证书\n英语四六级证书\n设计  师\n詹允坚\n负责企业画册设计、产品包装设计、杂志广告跨页设计、户外广告设计等\n对公司的网站后台周期性的修改和维护\n对公司所有的宣传广告设计方面全程负责一直到完成阶段",
+        "edu_major": "平面设计师资格证书",
+        "edu_degree_norm": "中专",
+        "start_date": "2011"
+      }
+    ],
+    "cont_education": "北京金隅科技学校平面设计\n2011 \u2013 2014\n中专\nAdobe中国认证设计师\nAdobe认证产品专家\n平面设计师资格证书\n平面设计师资格证书\n英语四六级证书\n设计  师\n詹允坚\n负责企业画册设计、产品包装设计、杂志广告跨页设计、户外广告设计等\n对公司的网站后台周期性的修改和维护\n对公司所有的宣传广告设计方面全程负责一直到完成阶段\n2014.7 \u2013 2018.7\n勤裕顾问有限公司\n会计师",
+    "all_cert_objs": [],
+    "expect_job": "财务会计",
+    "resume_integrity": "33",
+    "skills_objs": [
+      {
+        "skills_name": "MS Office"
+      },
+      {
+        "skills_name": "Photoshop"
+      },
+      {
+        "skills_name": "Illustrator"
+      },
+      {
+        "skills_name": "英语"
+      },
+      {
+        "skills_name": "日语"
+      },
+      {
+        "skills_name": "粤语"
+      }
+    ],
+    "phone": "13912345678",
+    "name": "詹允坚",
+    "hometown_address_norm": "中国-上海-上海市",
+    "grad_time": "2014",
+    "age": "28"
+  },
+  "eval": {
+    "salary": 8500
+  },
+  "status": {
+    "code": 200,
+    "message": "success"
+  },
+  "tags": {
+    "pos_tags": [
+      {
+        "tag_weight": 1.2,
+        "tag_name": "财务会计"
+      },
+      {
+        "tag_weight": 0.3124250793457031,
+        "tag_name": "会计"
+      },
+      {
+        "tag_weight": 0.29475464344024654,
+        "tag_name": "总账会计"
+      },
+      {
+        "tag_weight": 0.2889845466613769,
+        "tag_name": "财务"
+      },
+      {
+        "tag_weight": 0.2833350419998169,
+        "tag_name": "企业会计"
+      },
+      {
+        "tag_weight": 0.2824951028823852,
+        "tag_name": "会计主管"
+      },
+      {
+        "tag_weight": 0.27916043043136596,
+        "tag_name": "出纳"
+      },
+      {
+        "tag_weight": 0.2768245697021484,
+        "tag_name": "全盘会计"
+      },
+      {
+        "tag_weight": 0.2763919401168823,
+        "tag_name": "核算会计"
+      },
+      {
+        "tag_weight": 0.273615403175354,
+        "tag_name": "财务核算"
+      }
+    ],
+    "industries": [],
+    "skills_tags": [
+      {
+        "tag_weight": 0.6,
+        "tag_name": "财务会计"
+      }
+    ],
+    "pos_types": [
+      {
+        "tag_weight": 1.9768058895667573,
+        "tag_name": "会计"
+      },
+      {
+        "tag_weight": 0.44018838398359084,
+        "tag_name": "财务主管/总账主管"
+      },
+      {
+        "tag_weight": 0.36877891282859526,
+        "tag_name": "会计经理/会计主管"
+      },
+      {
+        "tag_weight": 0.33251829926087106,
+        "tag_name": "财务助理/文员"
+      },
+      {
+        "tag_weight": 0.2933969737695361,
+        "tag_name": "出纳员"
+      }
+    ]
+  }
+}
